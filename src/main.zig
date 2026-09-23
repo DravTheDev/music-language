@@ -24,7 +24,3 @@ pub fn main(init: std.process.Init) !void {
         print("{s}\n", .{line});
     }
 }
-
-test "Example" {
-
-}

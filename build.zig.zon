@@ -1,0 +1,7 @@
+.{
+    .name = .music_language,
+    .version = "0.0.0",
+    .fingerprint = 0x13c82d93b57ddc52, // Changing this has security and trust implications.
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{},
+}

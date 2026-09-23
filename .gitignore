@@ -1,2 +1,6 @@
-# Example Files
+# Misc Folders
 examples/
+docs/
+
+zig-out/
+zig-pkg/
